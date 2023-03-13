@@ -3,7 +3,7 @@
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
         "isToPage": false,
         "isAlert": false,
-         "countryCodes": ["TR","PH","BR"],
+         "countryCodes": ["LA","PH","BR"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -38,8 +38,9 @@
     },
     "xiaofeng650": {
         "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
            {
                 "name": "deposit-success",
@@ -107,9 +108,10 @@
         ]
     },
     "xiaofeng652": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
-        "isAlert": true,
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -250,9 +252,10 @@
         ]
     },
     "xiaofeng761": {
-        "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": false,
+        "url": "https://www.49jili.com/?pid=pagcor777",
+         "isToPage": true,
         "isAlert": false,
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
